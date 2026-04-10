@@ -1,0 +1,31 @@
+{
+  "풍향(deg)": "wind_dir_qc_result",
+  "풍속(m/s)": "wind_spd_qc_result",
+  "최대풍속(m/s)": "wind_max_spd_qc_result",
+  "기온(℃)": "air_temp_qc_result",
+  "기압(hPa)": "air_press_qc_result",
+  "일사(W/m2)": "insolation_qc_result",
+
+  "유향(deg)": "current_dir_qc_result",
+  "유속(Cm/s)": "current_spd_qc_result",
+
+  "수온(℃)": "water_temp_qc_result",
+  "전도도(ms/cm)": "conductivity_qc_result",
+  "염분(PSU)": "salinity_qc_result",
+  "O2(%)": "o2_per_qc_result",
+  "O2(ppm)": "o2_ppm_qc_result",
+  "pH": "ph_qc_result",
+  "탁도(NTU)": "turbidity_qc_result",
+  "chlorophyll": "chl_qc_result",
+
+  "유의파고(m)": "signifi_wave_qc_result",
+  "파주기(s)": "signifi_wave_period_qc_result",
+  "파향(deg)": "wave_dir_qc_result",
+
+  "Repr_Sea": "waterlevel_qc_result",
+  "Repr_Lake": "waterlevel_qc_result",
+  "Exis_Sea": "waterlevel_qc_result",
+  "Exis_Lake": "waterlevel_qc_result",
+  "Tower1": "waterlevel_qc_result",
+  "Tower2": "waterlevel_qc_result"
+}

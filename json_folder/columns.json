@@ -1,0 +1,18 @@
+{
+  "SMB1-Air": ["날짜", "풍향(deg)", "풍속(m/s)", "최대풍속(m/s)", "기온(℃)", "기압(hPa)", "일사(W/m2)"],
+  "SMB2-Air": ["날짜", "풍향(deg)", "풍속(m/s)", "최대풍속(m/s)", "기온(℃)", "기압(hPa)", "일사(W/m2)"],
+
+  "SMB1-Surface": ["날짜", "유향(deg)", "유속(Cm/s)"],
+  "SMB2-Surface": ["날짜", "유향(deg)", "유속(Cm/s)"],
+
+  "SMB3-Surface": ["날짜", "유향(deg)", "유속(Cm/s)"],
+  "SMB4-Surface": ["날짜", "유향(deg)", "유속(Cm/s)"],
+
+  "SMB3-Water": ["날짜", "수온(℃)", "전도도(ms/cm)", "염분(PSU)", "O2(%)", "O2(ppm)", "pH", "탁도(NTU)", "chlorophyll"],
+  "SMB4-Water": ["날짜", "수온(℃)", "전도도(ms/cm)", "염분(PSU)", "O2(%)", "O2(ppm)", "pH", "탁도(NTU)", "chlorophyll"],
+
+  "SMB5-None": ["날짜", "유의파고(m)", "파주기(s)", "수온(℃)", "파향(deg)"],
+  "SMB6-None": ["날짜", "유의파고(m)", "파주기(s)", "수온(℃)", "파향(deg)"],
+
+  "Sea_level-None": ["OBS_TIME", "Repr_Sea", "Repr_Lake", "Exis_Sea", "Exis_Lake", "Tower1", "Tower2"]
+}

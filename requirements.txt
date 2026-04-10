@@ -1,0 +1,9 @@
+joblib
+matplotlib
+numpy
+pandas
+psycopg2-binary
+scikit-learn
+scipy
+torch
+tqdm
